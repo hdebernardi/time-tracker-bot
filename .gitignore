@@ -1,7 +1,9 @@
 activities.json
-conda-env/
-.vscode
 logs/*
+
+conda-env/
+.vscode/
+.idea/
 
 # --------------------
 # END OF CUSTOM IGNORE
